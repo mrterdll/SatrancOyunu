@@ -55,4 +55,3 @@ void printBoard(string arr[8][8]);
 void printBoard(bool arr[8][8]);
 ```
 - Yukarıdaki printBoard() fonksiyonu kullanılarak oyun tahtasındaki taşların konumları ekrana bastırılabilir veya alttaki printBoard() fonksiyonu kullanılarak tehdit altında olan taşların konumları ekrana bastırılabilir.
-- 
