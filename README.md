@@ -23,6 +23,7 @@ Mevcut puanı hesaplama algoritması şöyledir:
 
 ##### Örnek puan hesaplaması:
 ![board1](https://github.com/mrterdll/SatrancOyunu/blob/748bebb0910364a360722c61e6c9607e6574ea5e/board1.png?raw=true)
+
 *Figure 1*
 
 Figure 1’de puan hesabı; tehdit altında olan taşlara göre şöyle hesaplanabilir:
@@ -49,7 +50,6 @@ vb -- -- pb -- fb -- pb
 pb pb -- -- pb pb pb --
 
 kb -- -- -- sb fb ab kb
-
 
 - Burada ilk harf taş bilgisini (Tablo 1’de verilmiştir.) ikinci harf ise renk bilgisini, -- ile ifade edilen yerler ise tahtadaki boş alanları göstermektedir.
 - Program girdilerinin her zaman doğru formatta ve doğru karakterlerle verileceğini varsayınız.
